@@ -1,6 +1,6 @@
 # Telematica
-# Entrega Proyecto 1
-# PIBL
+## Entrega Proyecto 1
+### PIBL
 Integrantes:
 - Carlos Mosquera
 - Antonio Carmona
